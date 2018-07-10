@@ -14,7 +14,8 @@ def dinner(din = "salmon")
   "Dinner is the best time for #{din}"
 end 
 
-puts 
+puts breakfast("cheerios")
+puts lunch()
 
 
 
