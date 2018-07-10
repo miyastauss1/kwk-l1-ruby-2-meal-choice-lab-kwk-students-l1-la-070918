@@ -20,7 +20,9 @@ puts dinner("steak")
 
 
 
-puts 
+puts breakfast
+puts lunch
+puts dinner
 
 
 
