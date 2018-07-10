@@ -6,7 +6,8 @@ def breakfast(bfast = "frosted flakes")
   "Morning is the best time for #{bfast}"
 end
 
-def lunch(lun = )
+def lunch(lun = "grilled cheese")
+  
 
 
 
