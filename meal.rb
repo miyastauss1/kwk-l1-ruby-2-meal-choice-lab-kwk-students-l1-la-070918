@@ -3,7 +3,7 @@ def snacks(food=cheetos)
 end
 
 def breakfast(bfast = "frosted flakes")
-  
+  "Morning is the best time for #{bfast}"
 
 
 
