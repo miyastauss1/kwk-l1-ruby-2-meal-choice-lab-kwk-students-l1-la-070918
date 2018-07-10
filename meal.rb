@@ -10,7 +10,8 @@ def lunch(lun = "grilled cheese")
   "Noon is the best time for #{lun}"
 end
 
-def 
+def dinner(din = "salmon")
+  ""
 
 
 
