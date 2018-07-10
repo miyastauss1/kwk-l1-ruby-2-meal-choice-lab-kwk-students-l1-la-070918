@@ -1,4 +1,4 @@
-def snacks 
+def snacks(food=cheetos)
 
 
 
