@@ -2,7 +2,7 @@ def snacks(food=cheetos)
   "Anytime, is the right time for #{food}!"
 end
 
-def breakfast(bfast )
+def breakfast(bfast = "frosted flakes")
 
 
 
