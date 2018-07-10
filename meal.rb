@@ -15,7 +15,8 @@ def dinner(din = "salmon")
 end 
 
 puts breakfast("cheerios")
-puts lunch()
+puts lunch("chicken")
+puts dinner("steak")
 
 
 
