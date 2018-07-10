@@ -1,5 +1,5 @@
 def snacks(food=cheetos)
-  "Anytime, is the right plae"
+  "Anytime, is the right place "
 
 
 
