@@ -7,7 +7,10 @@ def breakfast(bfast = "frosted flakes")
 end
 
 def lunch(lun = "grilled cheese")
-  "Noon is the best time "
+  "Noon is the best time for #{lun}"
+end
+
+def 
 
 
 
