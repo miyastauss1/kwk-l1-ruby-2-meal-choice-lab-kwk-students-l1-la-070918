@@ -7,7 +7,7 @@ def breakfast(bfast = "frosted flakes")
 end
 
 def lunch(lun = "grilled cheese")
-  "Noon "
+  "Noon is the best "
 
 
 
