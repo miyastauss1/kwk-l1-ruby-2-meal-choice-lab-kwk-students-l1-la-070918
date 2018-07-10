@@ -5,3 +5,4 @@ def meal_choice(breakfast="frosted flakes", lunch="grilled cheese", dinner="salm
 end
 
 meal_choice("french toast")
+meal_choice
